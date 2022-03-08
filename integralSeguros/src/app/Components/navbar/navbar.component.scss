@@ -1,0 +1,26 @@
+* {
+  padding: 0 auto;
+  border: 0;
+  font-family: "Readex Pro", sans-serif;
+}
+.container-fluid {
+  padding-left: 80px !important;
+}
+.logo {
+  width: 250px;
+  height: 115px;
+}
+.nav-item {
+  padding-right: 25px !important;
+}
+.menu {
+  font-family: "Readex Pro", sans-serif;
+  font-size: 18px;
+  color: black;
+  font-weight: 600;
+}
+
+.nav-link:hover {
+  color: #ff5700;
+  border-bottom: 2px solid #ff5700;
+}
